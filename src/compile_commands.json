@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/leonardo/dev/LibDev/lutil/build",
+  "command": "/usr/bin/cc  -I/home/leonardo/dev/LibDev/lutil/include -std=gnu99 -o CMakeFiles/lutil.dir/src/llog.c.o -c /home/leonardo/dev/LibDev/lutil/src/llog.c",
+  "file": "/home/leonardo/dev/LibDev/lutil/src/llog.c",
+  "output": "CMakeFiles/lutil.dir/src/llog.c.o"
+},
+{
+  "directory": "/home/leonardo/dev/LibDev/lutil/build",
+  "command": "/usr/bin/cc  -I/home/leonardo/dev/LibDev/lutil/include -std=gnu99 -o CMakeFiles/lutil.dir/src/lresult.c.o -c /home/leonardo/dev/LibDev/lutil/src/lresult.c",
+  "file": "/home/leonardo/dev/LibDev/lutil/src/lresult.c",
+  "output": "CMakeFiles/lutil.dir/src/lresult.c.o"
+},
+{
+  "directory": "/home/leonardo/dev/LibDev/lutil/build",
+  "command": "/usr/bin/cc  -I/home/leonardo/dev/LibDev/lutil/include -std=gnu99 -o CMakeFiles/lutil.dir/src/ltest.c.o -c /home/leonardo/dev/LibDev/lutil/src/ltest.c",
+  "file": "/home/leonardo/dev/LibDev/lutil/src/ltest.c",
+  "output": "CMakeFiles/lutil.dir/src/ltest.c.o"
+}
+]
